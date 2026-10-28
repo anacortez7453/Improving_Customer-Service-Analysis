@@ -1,4 +1,4 @@
-# Customer Service Analysis 📊
+# Improving Customer Service Analysis 📊
 
 ## 📌 Project Overview
 In both biotechnology research and business analytics, the ability to clean, manipulate, and extract meaningful insights from raw datasets is a foundational skill. This project focuses on analyzing customer service ticket data to identify operational bottlenecks, evaluate performance metrics, and discover trends in customer satisfaction. 
