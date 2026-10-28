@@ -23,7 +23,7 @@ To complete this analysis, I executed the following workflow:
 
 ## 🛠️ Tools & Technologies
 * **Programming Language:** Python
-* **Data Libraries:** Pandas, NumPy
+* **Data Libraries:** scikit-learn, ChromaDB
 * **Visualization Libraries:** Matplotlib, Seaborn
 * **Development Environment:** Jupyter Notebook / VS Code
 * **Version Control:** Git & GitHub
