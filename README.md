@@ -40,7 +40,7 @@ To complete this analysis, I executed the following workflow:
 ## 🖼️ Project Evidence & Visualizations
 * **Jupyter Notebook:** [Click here to view my analysis notebook](./customer_service_rag_assignment.ipynb) 
 * **Data-Driven Staffing Analysis Slideshow:** 
-  [Clickable Text Here](https://docs.google.com/presentation/d/1T4EDZWPJkeTRtkhGDscf0wVKj7Bqqbd8ng9fDiEA0ng/edit?usp=sharing)
+  [View Slides](https://docs.google.com/presentation/d/1T4EDZWPJkeTRtkhGDscf0wVKj7Bqqbd8ng9fDiEA0ng/edit?usp=sharing)
   
 
 ---
